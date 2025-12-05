@@ -1,0 +1,7 @@
+STRINGTABLE multipass_alpha
+{
+    multipass_alpha "";
+
+    CORONA_MULTIPASS_ALPHA_APPLY_BLOOM "Apply bloom";
+    CORONA_MULTIPASS_ALPHA_APPLY_GLARE "Apply glare";
+}

@@ -1,0 +1,5 @@
+STRINGTABLE postprocess_operator
+{
+    postprocess_operator "";
+    CORONA_POSTPROCESS_OPERATOR_TYPE_NAME "Type";
+}
